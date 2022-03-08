@@ -1,6 +1,6 @@
 # Ruby On Rails Interview Questions
 
-## What is the difference between has_many: through and has_and_belongs_to_many? Also state which one is better.
+##### What is the difference between has_many: through and has_and_belongs_to_many? Also state which one is better.
 <details>
     <summary>Answer</summary>
 
@@ -8,7 +8,7 @@
 </details>
   
 
-## What are validations in rails? At what moment of an object's lifecycle validations are checked?
+##### What are validations in rails? At what moment of an object's lifecycle validations are checked?
 
 <details>
     <summary>Answer</summary>
