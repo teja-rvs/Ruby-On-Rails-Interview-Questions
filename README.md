@@ -7,7 +7,6 @@
     <https://guides.rubyonrails.org/association_basics.html#choosing-between-has-many-through-and-has-and-belongs-to-many>
 </details>
   
-* * * * *
 
 ## What are validations in rails? At what moment of an object's lifecycle validations are checked?
 
@@ -35,7 +34,4 @@
     -   update_attributes!
     
 </details>
-
-
-* * * * *
 
