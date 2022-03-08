@@ -4,7 +4,7 @@
 <details>
     <summary>Answer</summary>
 
-    <https://guides.rubyonrails.org/association_basics.html#choosing-between-has-many-through-and-has-and-belongs-to-many>
+    [choosing between has_many:through and has_and_belongs_to_many](https://guides.rubyonrails.org/association_basics.html#choosing-between-has-many-through-and-has-and-belongs-to-many)
 </details>
   
 
